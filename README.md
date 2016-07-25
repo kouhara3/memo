@@ -11,31 +11,15 @@ http://terasolunaorg.github.io/guideline/5.1.0.RELEASE/ja/ImplementationAtEachLa
 
 1.1.1  Ctrl + E,在右边显示出当前打开的所有文件
 
-
-
 1.1.2 Ctrl + Pg Up ,Ctrl + Pg Dn ,逐个文件跳跃
-
-按下Ctrl + Pg Dn，从AdConf.java跳到 AdQuaryServiceImpl.java
-
-Before:
-
-
-
-After:
-
-
-
-反之亦然。
 
 1.1.3 Ctrl + F6，在当前文件里显示当前打开的所有文件
 
 
-
-我个人比较喜欢Ctrl + E 这种方式。
-
 1.2  复制当前行或者当前选中的代码块
 
-在Eclipse里面，如果需要复制一行，无需使用Ctrl + C，只需要使用Ctrl + Alt + ↓。注意这个快捷键通常会有冲突，可以在keys的面板上自行修改。我自己喜欢用Ctrl + Alt + End来替换Ctrl +Alt + ↓。
+在Eclipse里面，如果需要复制一行，无需使用Ctrl + C，只需要使用Ctrl + Alt + ↓。
+注意这个快捷键通常会有冲突，可以在keys的面板上自行修改。我自己喜欢用Ctrl + Alt + End来替换Ctrl +Alt + ↓。
 
 public class TestString {
  
